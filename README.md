@@ -10,7 +10,7 @@ Run below command to start node project in development mode
 > npm run start:dev
 
 ## Production build
-Run below command to build node project for production. Build files will be places in `build` folder
+Run below command to build node project for production. Build files will be placed in `build` folder
 > npm run start
 
 ## Clone repository
