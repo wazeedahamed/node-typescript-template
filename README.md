@@ -38,17 +38,9 @@ Below are the commands (windows command prompt) to setup the template manually. 
 
     > npm init -y
 
-* Add Typescript
+* Install Development dependencies: `typescript`, `@types/node`, `rimraf`, `ts-node`, `nodemon`
 
-    > npm install typescript --save-dev
-
-* Add Node Types
-
-    > npm install @types/node --save-dev
-
-* Add `rimraf`
-
-    > npm install rimraf --save-dev
+    > npm install typescript @types/node rimraf ts-node nodemon --save-dev
 
 * Create Typescript configuration
 
@@ -57,11 +49,8 @@ Below are the commands (windows command prompt) to setup the template manually. 
 * Create `src` folder and `index.ts` file
 
     > mkdir src
+    
     > echo. > src\index.ts
-
-* Add `ts-node` and `nodemon`
-
-    > npm install --save-dev ts-node nodemon
 
 * Configure `nodemon`
 
