@@ -17,7 +17,7 @@ Run below command to build node project for production. Build files will be plac
 > git clone https://github.com/wazeedahamed/node-typescript-template.git
 
 ## Manual Setup
-Below are the commands (windows command prompt) to setup the template manually. Reference [typescript/node-starter-project](https://khalilstemmler.com/blogs/typescript/node-starter-project/ "Node Starter Project" target="_blank")
+Below are the commands (windows command prompt) to setup the template manually. Reference [typescript/node-starter-project](https://khalilstemmler.com/blogs/typescript/node-starter-project/ "Node Starter Project")
 
 - Create a project folder. Open command prompt and run below command
     > mkdir `<<project_folder_name>>`
